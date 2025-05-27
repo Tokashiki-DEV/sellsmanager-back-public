@@ -2,12 +2,12 @@
 
 ✨ Funcionalidades principais:
 
-    Gestão de Produtos e Estoque
-    Cadastro, atualização e monitoramento de produtos com controle automático de estoque.
-    Controle de Vendas
-    Registro de vendas com fluxo detalhado, cálculo de totais e controle por período.
-    Cadastro e Gestão de Clientes
-    Armazenamento de informações de clientes com histórico de compras
-    Visualização em tempo real de dados operacionais, como vendas por período, produtos mais vendidos, e desempenho geral.
+ - Gestão de Produtos e Estoque
+ - Cadastro, atualização e monitoramento de produtos com controle automático de estoque.
+ - Controle de Vendas
+ - Registro de vendas com fluxo detalhado, cálculo de totais e controle por período.
+ - Cadastro e Gestão de Clientes
+ - Armazenamento de informações de clientes com histórico de compras
+ - Visualização em tempo real de dados operacionais, como vendas por período, produtos mais vendidos, e desempenho geral.
 
 ❗ Este é somente o back-end, o front-end está em outro repositório
